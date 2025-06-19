@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://vistek528.github.io/MyBlogPage/'
+languageCode = 'pl-pl'
+title = 'Mój Blog Techniczny'
+theme = 'PaperMod'
+
+[params]
+  author = "Twoje Imię"
+  description = "Projekty z zakresu elektroniki, robotyki i programowania"
+  defaultTheme = "auto"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
