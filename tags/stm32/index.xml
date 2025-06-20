@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>STM32 on Mój Blog Techniczny</title>
+    <link>https://ppatek.pl/tags/stm32/</link>
+    <description>Recent content in STM32 on Mój Blog Techniczny</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>pl</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ppatek.pl/tags/stm32/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projekt Elkapod</title>
+      <link>https://ppatek.pl/projects/elkapod/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ppatek.pl/projects/elkapod/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+    </item>
+  </channel>
+</rss>

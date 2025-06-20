@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Tech Blog</title>
+    <link>https://ppatek.pl/en/</link>
+    <description>Recent content on My Tech Blog</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ppatek.pl/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O mnie</title>
+      <link>https://ppatek.pl/en/about/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ppatek.pl/en/about/</guid>
+      <description>&lt;p&gt;Cześć! 👋&lt;/p&gt;
+&lt;p&gt;Nazywam się &lt;strong&gt;Piotr Patek&lt;/strong&gt; i pasjonuję się &lt;strong&gt;elektroniką, robotyką i programowaniem systemów wbudowanych&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;-moje-zainteresowania&#34;&gt;🔧 Moje zainteresowania:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mikrokontrolery: ESP32, STM32&lt;/li&gt;
+&lt;li&gt;Systemy wbudowane i RTOS-y&lt;/li&gt;
+&lt;li&gt;Projektowanie płytek PCB (Altium Designer)&lt;/li&gt;
+&lt;li&gt;Robotyka&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-narzędzia-których-używam&#34;&gt;🛠️ Narzędzia, których używam:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;STM32CubeMX, esp-idf, CLion, PyCharm, ROS2&lt;/li&gt;
+&lt;li&gt;VS Code, Git, Docker&lt;/li&gt;
+&lt;li&gt;Python, C/C++, Bash, Rust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chcę dzielić się tu moimi projektami, przemyśleniami i kodem — być może kogoś to zainspiruje 😊&lt;br&gt;
+Zapraszam do zakładki &lt;strong&gt;Projekty&lt;/strong&gt;, a jeśli chcesz się skontaktować – znajdziesz mnie na GitHubie lub mailowo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project Elkapod</title>
+      <link>https://ppatek.pl/en/projects/elkapod/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ppatek.pl/en/projects/elkapod/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+    </item>
+  </channel>
+</rss>
