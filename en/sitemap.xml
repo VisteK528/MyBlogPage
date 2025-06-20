@@ -54,21 +54,11 @@
                 href="https://ppatek.pl/en/projects/"
                 />
   </url><url>
-    <loc>https://ppatek.pl/en/tags/robotics/</loc>
+    <loc>https://ppatek.pl/en/tags/raspberrypi/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppatek.pl/en/tags/servo/</loc>
+    <loc>https://ppatek.pl/en/tags/robotics/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/tags/servo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/tags/servo/"
-                />
   </url><url>
     <loc>https://ppatek.pl/en/tags/stm32/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
