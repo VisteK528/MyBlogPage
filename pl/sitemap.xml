@@ -1,101 +1,180 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>https://ppatek.pl/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/"
+    />
+  </url>
+  <url>
     <loc>https://ppatek.pl/about/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/about/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/about/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/about/"
-                />
-  </url><url>
-    <loc>https://ppatek.pl/projects/</loc>
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/about/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/minesweeper/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/projects/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/minesweeper/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/projects/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/minesweeper/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/angry_birds_copy/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/angry_birds_copy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/angry_birds_copy/"
+    />
+  </url>
+  <url>
     <loc>https://ppatek.pl/projects/elkapod/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/projects/elkapod/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/elkapod/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/projects/elkapod/"
-                />
-  </url><url>
-    <loc>https://ppatek.pl/tags/raspberry-pi/</loc>
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/elkapod/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/rythmforge/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ppatek.pl/tags/robotyka/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/rythmforge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/rythmforge/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/speech_commands_recognition/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ppatek.pl/tags/stm32/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/speech_commands_recognition/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/speech_commands_recognition/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/tags/stm32/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/tags/stm32/"
-                />
-  </url><url>
-    <loc>https://ppatek.pl/tags/</loc>
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/machine_learning_random_forests/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/tags/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/machine_learning_random_forests/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/tags/"
-                />
-  </url><url>
-    <loc>https://ppatek.pl/categories/</loc>
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/machine_learning_random_forests/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/projects/smart_water_distributor/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ppatek.pl/en/categories/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/projects/smart_water_distributor/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ppatek.pl/categories/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/projects/smart_water_distributor/"
+    />
+  </url>
+  <url>
+    <loc>https://ppatek.pl/contact/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/en/contact/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ppatek.pl/contact/"
+    />
   </url>
 </urlset>

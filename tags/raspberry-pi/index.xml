@@ -1,19 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raspberry Pi on Mój Blog Techniczny</title>
+    <title>Raspberry Pi on Blog Techniczny</title>
     <link>https://ppatek.pl/tags/raspberry-pi/</link>
-    <description>Recent content in Raspberry Pi on Mój Blog Techniczny</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <description>Recent content in Raspberry Pi on Blog Techniczny</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ppatek.pl/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>piotrpatek17@gmail.com (Piotr Patek)</managingEditor>
+    <webMaster>piotrpatek17@gmail.com (Piotr Patek)</webMaster>
+    <copyright>© 2025 Piotr Patek</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ppatek.pl/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gra Saper</title>
+      <link>https://ppatek.pl/projects/minesweeper/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/minesweeper/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Projekt AngryBirds</title>
+      <link>https://ppatek.pl/projects/angry_birds_copy/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/angry_birds_copy/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      
+    </item>
+    
     <item>
       <title>Projekt Elkapod</title>
       <link>https://ppatek.pl/projects/elkapod/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
       <guid>https://ppatek.pl/projects/elkapod/</guid>
       <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ppatek.pl/projects/elkapod/featured.png" />
     </item>
+    
+    <item>
+      <title>Projekt RythmForge</title>
+      <link>https://ppatek.pl/projects/rythmforge/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/rythmforge/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Projekt SpeechRecognition</title>
+      <link>https://ppatek.pl/projects/speech_commands_recognition/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/speech_commands_recognition/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Random Forests implementation</title>
+      <link>https://ppatek.pl/projects/machine_learning_random_forests/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/machine_learning_random_forests/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Water Distributor</title>
+      <link>https://ppatek.pl/projects/smart_water_distributor/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/smart_water_distributor/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ppatek.pl/projects/smart_water_distributor/featured.png" />
+    </item>
+    
   </channel>
 </rss>

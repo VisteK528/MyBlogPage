@@ -1,19 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RaspberryPi on My Tech Blog</title>
+    <title>RaspberryPi on Tech blog</title>
     <link>https://ppatek.pl/en/tags/raspberrypi/</link>
-    <description>Recent content in RaspberryPi on My Tech Blog</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ppatek.pl/en/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in RaspberryPi on Tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <managingEditor>piotrpatek17@gmail.com (Piotr Patek)</managingEditor>
+    <webMaster>piotrpatek17@gmail.com (Piotr Patek)</webMaster>
+    <copyright>© 2025 Piotr Patek</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ppatek.pl/en/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Minesweeper game</title>
+      <link>https://ppatek.pl/en/projects/minesweeper/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/minesweeper/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Project AngryBirds</title>
+      <link>https://ppatek.pl/en/projects/angry_birds_copy/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/angry_birds_copy/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      
+    </item>
+    
     <item>
       <title>Project Elkapod</title>
       <link>https://ppatek.pl/en/projects/elkapod/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
       <guid>https://ppatek.pl/en/projects/elkapod/</guid>
       <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ppatek.pl/projects/elkapod/featured.png" />
     </item>
+    
+    <item>
+      <title>Project RythmForge</title>
+      <link>https://ppatek.pl/en/projects/rythmforge/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/rythmforge/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Project SpeechRecognition</title>
+      <link>https://ppatek.pl/en/projects/speech_commands_recognition/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/speech_commands_recognition/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Random Forests Implementation</title>
+      <link>https://ppatek.pl/en/projects/machine_learning_random_forests/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/machine_learning_random_forests/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Water Distributor</title>
+      <link>https://ppatek.pl/en/projects/smart_water_distributor/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/smart_water_distributor/</guid>
+      <description>Six legged walking robot controlled using STM32 and Raspberry Pi.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ppatek.pl/projects/smart_water_distributor/featured.png" />
+    </item>
+    
   </channel>
 </rss>

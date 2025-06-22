@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotyka on Blog Techniczny</title>
+    <link>http://localhost:1313/pl/tags/robotyka/</link>
+    <description>Recent content in Robotyka on Blog Techniczny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <managingEditor>piotrpatek17@gmail.com (Piotr Patek)</managingEditor>
+    <webMaster>piotrpatek17@gmail.com (Piotr Patek)</webMaster>
+    <copyright>© 2025 Piotr Patek</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pl/tags/robotyka/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projekt Elkapod</title>
+      <link>http://localhost:1313/pl/projects/elkapod/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>http://localhost:1313/pl/projects/elkapod/</guid>
+      <description>Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
