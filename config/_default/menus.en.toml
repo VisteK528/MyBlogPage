@@ -11,20 +11,25 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
   name = "About me"
   pageRef = "about"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 20
+  weight = 30
   homepageImage = "image.png"
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 30
+  weight = 40
 
 #[[main]]
 #  name = "Parent"

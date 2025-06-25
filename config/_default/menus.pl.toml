@@ -11,19 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Strona główna"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
   name = "O mnie"
   pageRef = "about"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Projekty"
   pageRef = "projects"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Kontakt"
   pageRef = "contact"
-  weight = 30
+  weight = 40
 
 #[[main]]
 #  name = "Parent"
