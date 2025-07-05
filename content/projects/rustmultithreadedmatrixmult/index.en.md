@@ -1,6 +1,6 @@
 ---
-title: "Project AngryBirds"
-date: 2023-06-26
+title: "RustMultithreadedMatrixMult"
+date: 2024-05-22
 tags: ["robotics", "STM32", "RaspberryPi"]
 draft: false
 ---

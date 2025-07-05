@@ -1,9 +1,7 @@
 ---
 title: "Gra Saper"
-date: 2024-01-15
+date: 2023-05-08
 tags: ["robotyka", "STM32", "Raspberry Pi"]
-image: "ElkapodRender.png"
-summary: "Robot kroczący na 6 nogach sterowany STM32 i RaspberryPi."
 draft: false
 show_author: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: "O mnie"
 date: 2025-06-18
+layout: "single-page"
 ---
 
 Cześć! 👋

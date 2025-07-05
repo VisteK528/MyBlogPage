@@ -1,9 +1,7 @@
 ---
 title: "Project RythmForge"
-date: 2024-01-15
+date: 2024-06-10
 tags: ["robotics", "STM32", "RaspberryPi"]
-image: "ElkapodRender.png"
-summary: "Six legged walking robot controlled using STM32 and Raspberry Pi."
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Random Forests Implementation"
-date: 2024-01-15
+date: 2025-01-26
 tags: ["robotics", "STM32", "RaspberryPi"]
 summary: "Six legged walking robot controlled using STM32 and Raspberry Pi."
 draft: false

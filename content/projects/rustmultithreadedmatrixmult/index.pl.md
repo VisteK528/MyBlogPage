@@ -1,8 +1,7 @@
 ---
-title: "Projekt Elkapod"
-date: 2025-06-14
+title: "RustMultithreadedMatrixMult"
+date: 2024-05-22
 tags: ["robotyka", "STM32", "Raspberry Pi"]
-layout: "single-project"
 draft: false
 show_author: false
 ---

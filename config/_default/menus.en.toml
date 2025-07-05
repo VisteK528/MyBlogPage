@@ -24,7 +24,6 @@
   name = "Projects"
   pageRef = "projects"
   weight = 30
-  homepageImage = "image.png"
 
 [[main]]
   name = "Contact"
