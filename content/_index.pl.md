@@ -85,7 +85,7 @@ Student Automatyki i Robotyki na Wydziale Elektroniki i Technik Informacyjnych P
 
 
 <section class="py-10">
-  <h2 class="text-2xl font-semibold mb-4">Wybrane Projekty 🚀</h2>
+  <h2 class="text-2xl font-semibold mb-4">Wybrane projekty</h2>
 
   <div class="swiper-container">
     <div class="swiper-wrapper">

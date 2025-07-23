@@ -25,10 +25,10 @@
   pageRef = "projects"
   weight = 30
 
-[[main]]
-  name = "Kontakt"
-  pageRef = "contact"
-  weight = 40
+#[[main]]
+#  name = "Kontakt"
+#  pageRef = "contact"
+#  weight = 40
 
 #[[main]]
 #  name = "Parent"

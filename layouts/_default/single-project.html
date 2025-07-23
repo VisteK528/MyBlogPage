@@ -25,6 +25,34 @@
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
       </div>
+      
+    {{ with .Params.github }}
+      <div class="mt-2 mb-2 print:hidden">
+        <div class="inline-flex items-center gap-2 w-fit">
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer"
+            class="flex items-center gap-6 text-sm text-neutral-500 dark:text-neutral-400 hover:text-primary-500">
+
+            <img src="/images/icons/github.svg" alt="GitHub icon"
+                width="20" height="20"
+                class="object-contain pointer-events-none select-none" draggable="false" />
+
+            <div class="w-2"></div>
+            <span>
+              {{ if eq $.Site.Language.Lang "pl" }}
+                Zobacz na GitHub
+              {{ else }}
+                Explore on GitHub
+              {{ end }}
+            </span>
+          </a>
+        </div>
+      </div>
+    {{ end }}
+
+
+
+
+
 
       {{ $authorsData := .Site.Data.authors }}
       {{ $taxonomies := .Site.Taxonomies.authors }}

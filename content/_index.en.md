@@ -3,16 +3,10 @@ title: "Piotr Patek"
 type: "home"
 ---
 
-Student Automatyki i Robotyki na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej. Aktywnie rozwija swoje zainteresowania w obszarze systemów cyberfizycznych i robotyki, umiejętnie przekładając wiedzę teoretyczną na praktyczne rozwiązania.
-
-<section class="text-center py-10" data-aos="fade-in">
-  <h1 class="text-4xl font-bold mb-4">Cześć, jestem Piotr 👋</h1>
-  <p class="text-xl text-gray-300 mb-6">Buduję nowoczesne aplikacje webowe i dzielę się wiedzą techniczną.</p>
-  <a href="/projects/" class="btn btn-primary text-white bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-lg">Zobacz moje projekty</a>
-</section>
+Control Engineering and Robotics student at Faculty of Electronics and Information Technology, Warsaw University of Technology. Actively developing interests in cyber-physical systems and robotics with a strong ability to translate theoretical knowledge into practical solutions.
 
 <section class="py-12">
-  <h2 class="text-3xl font-bold mb-8 text-center">My Tech Stack</h2>
+  <h2 class="text-3xl font-bold mb-8 text-center">Used tools</h2>
   
   <!-- Slider Container -->
   <div class="techstack-swiper swiper-tech-container">
@@ -27,7 +21,7 @@ Student Automatyki i Robotyki na Wydziale Elektroniki i Technik Informacyjnych P
         <div class="flex flex-col items-center p-4 h-full">
           <img src="/images/icons/stm32_logo.png" alt="STM32" class="h-20 w-20 object-contain pointer-events-none select-none" draggable="false">
           <span class="mt-3 text-lg font-medium">STM32</span>
-        </div>
+        </div> 
       </div>
       <div class="swiper-slide">
         <div class="flex flex-col items-center p-4 h-full">
@@ -91,7 +85,7 @@ Student Automatyki i Robotyki na Wydziale Elektroniki i Technik Informacyjnych P
 
 
 <section class="py-10">
-  <h2 class="text-2xl font-semibold mb-4">Wybrane Projekty 🚀</h2>
+  <h2 class="text-2xl font-semibold mb-4">Selected projects</h2>
 
   <div class="swiper-container">
     <div class="swiper-wrapper">
@@ -99,35 +93,35 @@ Student Automatyki i Robotyki na Wydziale Elektroniki i Technik Informacyjnych P
         <a href="/projects/elkapod">
           <img src="/projects/elkapod/featured.png" alt="Elkapod" class="w-60 h-60 object-cover rounded-lg shadow-md mb-2" />
           <h3 class="text-lg font-semibold">Elkapod</h3>
-          <p class="text-sm text-gray-400">Sześcionożny robot kroczący</p>
+          <p class="text-sm text-gray-400">Six-legged walking robot</p>
         </a>
       </div>
       <div class="swiper-slide">
         <a href="/projects/smart_water_distributor">
           <img src="/projects/smart_water_distributor/featured.png" alt="SmartWater" class="w-full h-60 object-cover rounded-lg shadow-md mb-2" />
           <h3 class="text-lg font-semibold">SmartWater</h3>
-          <p class="text-sm text-gray-400">Inteligentny dystrybutor wody</p>
+          <p class="text-sm text-gray-400">Intelligent water distributor</p>
         </a>
       </div>
       <div class="swiper-slide">
         <a href="/projects/angry_birds_remake">
           <img src="/projects/angry_birds_remake/featured.png" alt="AngryBirdsRemake" class="w-60 h-60 object-cover rounded-lg shadow-md mb-2" />
           <h3 class="text-lg font-semibold">AngryBirdsRemake</h3>
-          <p class="text-sm text-gray-400">Własna implementacja gry AngryBirds</p>
+          <p class="text-sm text-gray-400">Custom implementation of popular AngryBirds game</p>
         </a>
       </div>
       <div class="swiper-slide">
         <a href="/projects/rythmforge">
           <img src="/projects/rythmforge/featured.png" alt="RythmForge" class="w-full h-60 object-cover rounded-lg shadow-md mb-2" />
           <h3 class="text-lg font-semibold">RythmForge</h3>
-          <p class="text-sm text-gray-400">Biblioteka do przetwarzania sygnałów audio</p>
+          <p class="text-sm text-gray-400">Audio processing library</p>
         </a>
       </div>
        <div class="swiper-slide">
         <a href="/projects/speech_commands_recognition">
           <img src="/projects/speech_commands_recognition/featured.png" alt="SpeechCommandsRecognition" class="w-full h-60 object-cover rounded-lg shadow-md mb-2" />
           <h3 class="text-lg font-semibold">Speech Commands Recognition</h3>
-          <p class="text-sm text-gray-400">System rozpoznawania komend głosowych</p>
+          <p class="text-sm text-gray-400">A system for recognizing spoken commands</p>
         </a>
       </div>
     </div>

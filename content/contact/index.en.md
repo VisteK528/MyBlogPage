@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+layout: "single-page"
 ---
 
 Github: https://github.com/vistek528

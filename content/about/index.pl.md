@@ -1,27 +1,47 @@
 ---
 title: "O mnie"
-date: 2025-06-18
 layout: "single-page"
 ---
 
-Cześć! 👋
+Nazywam się Piotr Patek i jestem studentem 3. roku kierunku automatyka i robotyka na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej.
 
-Nazywam się **Piotr Patek** i pasjonuję się **elektroniką, robotyką i programowaniem systemów wbudowanych**.
-To jest test
+Już od czasów liceum interesowałem się elektroniką i programowaniem, które postrzegałem jako narzędzia dzięki którym mogę oddziaływać na otaczający nas świat.
+Z tego powodu wybrałem jako robotykę jako kierunek studiów, ponieważ systemy robotyczne właśnie tym się zajmują - pomagają nam, ludziom, wpływać na nasze otoczenie.
 
-### 🔧 Moje zainteresowania:
-- Mikrokontrolery: ESP32, STM32
-- Systemy wbudowane i RTOS-y
-- Projektowanie płytek PCB (Altium Designer)
-- Robotyka
+Przez te wszystkie lata zdobyłem doświadczenie w następujących polach:
+- **programowanie niskopoziomowe**
+- **programowanie obiektowe**
+- **elektronika**
+- **projektowanie oraz oprogramowanie systemów wbudowanych**
+- **modelowanie procesów i teoria sterowania**
+- **opracowywanie modelów ML/DL**
 
-### 🛠️ Narzędzia, których używam:
-- STM32CubeMX, esp-idf, CLion, PyCharm, ROS2
-- VS Code, Git, Docker
-- Python, C/C++, Bash, Rust
+Obecnie jestem wiceprezesem Koła Naukowego Robotyki Bionik działającego na moim wydziale, w ramach którego zajmuję się koordynacją prac przy budowie naszego sześcionożnego robota kroczącego o którym więcej wspominam [tutaj](/projects/elkapod/).
 
-Chcę dzielić się tu moimi projektami, przemyśleniami i kodem — być może kogoś to zainspiruje 😊  
-Zapraszam do zakładki **Projekty**, a jeśli chcesz się skontaktować – znajdziesz mnie na GitHubie lub mailowo.
+### Mój stack technologiczny
+- Mikrokontrolery: STM32, ESP32
+- Języki programowania: Python, C, C++, Bash
+- frameworki: ROS2, ros2_control, esp-idf
+- biblioteki: Eigen, numpy, Tensorflow/Keras, PyTorch
+- symulatory systemów robotycznych: Gazebo, Webots
+
+### Narzędzia, których używam na codzień:
+- VS Code, CLion, PyCharm
+- Linux (Ubuntu)
+- Git
+- STM32CubeMX, STM32CubeProgrammer
+- Altium Designer
+
+---
+
+Zapraszam do zakładki [Projekty](/projects/), a jeśli chcesz się skontaktować – znajdziesz mnie na GitHubie lub mailowo.
+
+Github: https://github.com/vistek528
+
+Email: piotrpatek17@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/piotr-patek/
+
 
 [📄 Pobierz moje CV (PDF)](/CV_PiotrPatek_pl.pdf)
 
