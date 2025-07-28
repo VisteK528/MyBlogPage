@@ -6,7 +6,7 @@ layout: "single-page"
 Nazywam się Piotr Patek i jestem studentem 3. roku kierunku automatyka i robotyka na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej.
 
 Już od czasów liceum interesowałem się elektroniką i programowaniem, które postrzegałem jako narzędzia dzięki którym mogę oddziaływać na otaczający nas świat.
-Z tego powodu wybrałem jako robotykę jako kierunek studiów, ponieważ systemy robotyczne właśnie tym się zajmują - pomagają nam, ludziom, wpływać na nasze otoczenie.
+Z tego powodu wybrałem robotykę jako kierunek studiów, ponieważ systemy robotyczne właśnie tym się zajmują - pomagają nam, ludziom, wpływać na nasze otoczenie.
 
 Przez te wszystkie lata zdobyłem doświadczenie w następujących polach:
 - **programowanie niskopoziomowe**

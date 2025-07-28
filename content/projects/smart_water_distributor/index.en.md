@@ -5,6 +5,7 @@ tags: ["PCB", "ESP32", "C", "ESP-IDF", "microcontrollers"]
 layout: "single-project"
 draft: false
 show_author: false
+github: "https://github.com/VisteK528/PIAR_Software"
 ---
 
 Projekt inteligentnego dystrybutora wody realizowany w zespole trójosobowym w ramach przedmiotu Prototypowanie Inżynierskie w Automatyce i Robotyce.
