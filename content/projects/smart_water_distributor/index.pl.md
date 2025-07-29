@@ -3,7 +3,7 @@ title: "Smart Water Distributor"
 date: 2025-06-10
 tags: ["PCB", "ESP32", "C", "ESP-IDF", "microcontrollers"]
 layout: "single-project"
-draft: false
+draft: true
 show_author: false
 github: "https://github.com/VisteK528/PIAR_Software"
 ---
