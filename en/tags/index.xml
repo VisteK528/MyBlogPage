@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tech blog</title>
+    <link>https://ppatek.pl/en/tags/</link>
+    <description>Recent content in Tags on Tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <managingEditor>piotrpatek17@gmail.com (Piotr Patek)</managingEditor>
+    <webMaster>piotrpatek17@gmail.com (Piotr Patek)</webMaster>
+    <copyright>© 2025 Piotr Patek</copyright>
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ppatek.pl/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://ppatek.pl/en/tags/raspberry-pi/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/raspberry-pi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Robotyka</title>
+      <link>https://ppatek.pl/en/tags/robotyka/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/robotyka/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>STM32</title>
+      <link>https://ppatek.pl/en/tags/stm32/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/stm32/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Audio Signal Processing</title>
+      <link>https://ppatek.pl/en/tags/audio-signal-processing/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/audio-signal-processing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://ppatek.pl/en/tags/c/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ppatek.pl/en/tags/python/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://ppatek.pl/en/tags/tensorflow/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/tensorflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Boost</title>
+      <link>https://ppatek.pl/en/tags/boost/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/boost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://ppatek.pl/en/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Librosa</title>
+      <link>https://ppatek.pl/en/tags/librosa/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/librosa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pybind11</title>
+      <link>https://ppatek.pl/en/tags/pybind11/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/pybind11/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sphinx</title>
+      <link>https://ppatek.pl/en/tags/sphinx/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/sphinx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Box2d</title>
+      <link>https://ppatek.pl/en/tags/box2d/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/box2d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sfml</title>
+      <link>https://ppatek.pl/en/tags/sfml/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/tags/sfml/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

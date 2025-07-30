@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boost on Blog Techniczny</title>
+    <link>https://ppatek.pl/tags/boost/</link>
+    <description>Recent content in Boost on Blog Techniczny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <managingEditor>piotrpatek17@gmail.com (Piotr Patek)</managingEditor>
+    <webMaster>piotrpatek17@gmail.com (Piotr Patek)</webMaster>
+    <copyright>© 2025 Piotr Patek</copyright>
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ppatek.pl/tags/boost/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projekt RythmForge</title>
+      <link>https://ppatek.pl/projects/rythmforge/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/projects/rythmforge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ppatek.pl/projects/rythmforge/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

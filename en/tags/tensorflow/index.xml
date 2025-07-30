@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensorflow on Tech blog</title>
+    <link>https://ppatek.pl/en/tags/tensorflow/</link>
+    <description>Recent content in Tensorflow on Tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <managingEditor>piotrpatek17@gmail.com (Piotr Patek)</managingEditor>
+    <webMaster>piotrpatek17@gmail.com (Piotr Patek)</webMaster>
+    <copyright>© 2025 Piotr Patek</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ppatek.pl/en/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project SpeechRecognition</title>
+      <link>https://ppatek.pl/en/projects/speech_commands_recognition/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>piotrpatek17@gmail.com (Piotr Patek)</author>
+      <guid>https://ppatek.pl/en/projects/speech_commands_recognition/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ppatek.pl/projects/speech_commands_recognition/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
